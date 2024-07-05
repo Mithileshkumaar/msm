@@ -1,0 +1,15 @@
+.chat {
+      flex: 2;
+      border-right: 1px grey solid;
+}
+
+.top {
+      display: flex;
+      justify-content: space-between;
+      border-bottom: 1px grey solid;
+}
+
+.bottom {
+      display: flex;
+      justify-content: space-around;
+}

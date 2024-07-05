@@ -1,0 +1,9 @@
+.chatList {}
+
+.search {
+      display: flex;
+}
+
+.item {
+      border-bottom: 1px grey solid;
+}
